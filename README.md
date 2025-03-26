@@ -23,17 +23,5 @@ O Shelfgera oferece diversas ferramentas para facilitar a administração de bib
 Objetivo do Projeto
 O Shelfgera foi criado para tornar a gestão de bibliotecas mais prática e organizada, oferecendo um sistema acessível e intuitivo para manter os registros sempre atualizados.
 
-Como Instalar
-Para executar o projeto localmente, siga os passos abaixo:
-
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/ogabrielgodoy/shelfgera.git
-Contribuições
-Contribuições são sempre bem-vindas! Caso tenha sugestões ou queira colaborar com melhorias, fique à vontade para participar.
-
 Autora
 📌 Myrela Barboza
